@@ -1,0 +1,57 @@
+_repo: Lichtenstein_6726
+creator:
+  author:
+    agent_name: Hauff, Wilhelm
+    birthdate: 1802
+    deathdate: 1827
+    gutenberg_agent_id: '2125'
+    url: http://www.gutenberg.org/2009/agents/2125
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Wilhelm_Hauff
+    - http://de.wikipedia.org/wiki/Wilhelm_Hauff
+description: "Lichtenstein is a historical novel by Wilhelm Hauff, first published\
+  \ in 1826, the year before his early death. Set in and around Württemberg, it is\
+  \ considered his greatest literary success next to his fairy-tales, and, together\
+  \ with the work of the almost forgotten Benedikte Naubert, represents the beginning\
+  \ of historical novel-writing in Germany.\nHauff follows Sir Walter Scott (and Naubert)\
+  \ by allowing an invented figure in a real family, Georg Sturmfeder, to witness\
+  \ the events during the struggle of Ulrich von Württemberg against the Swabian League\
+  \ under Georg, Truchsess von Waldburg-Zeil, who plays the part of foil to the positively\
+  \ depicted Georg von Frundsberg. Hauff idealises Ulrich as a wronged man, who, in\
+  \ his moment of need, is restored to his rights through the efforts of his people,\
+  \ symbolised by the character of the Piper of Hardt. The historical Ulrich is remembered\
+  \ largely for his exorbitant taxes on meat, wine and fruit, which provoked the Armer\
+  \ Konrad peasant uprising of 1514, quelled only with the help of his enemy the Steward\
+  \ of Waldburg-Zeil.\nLichtenstein was a romantic and patriotic German's tribute\
+  \ to the work of Walter Scott. No foreign author was more popular than Scott in\
+  \ the Germany of the early 19th century. His novels, translated in full, were so\
+  \ generally read that it was said that the soil of old Scotland was more familiar\
+  \ to Germans than their native land. Yet the hills of Scotland, Hauff said, were\
+  \ not of a richer green than the German Harz, the waves of the Tweed were no bluer\
+  \ than those of the Danube, Scotch men were no braver, Scotch women no lovelier\
+  \ than the old Swabians and Saxons. Lichtenstein, modelled after the Waverley Novels,\
+  \ was a direct protest against the novel with a foreign historical background and\
+  \ was an attempt to recreate the romance of a bit of Swabian history as Scott had\
+  \ done for the country of Ivanhoe and Waverley.\nThe great success of the book prompted\
+  \ the rebuilding of Lichtenstein Castle in 1840–1842. The 1846 opera of the same\
+  \ name by Peter Josef von Lindpaintner is based on this novel.\n From Wikipedia\
+  \ (CC BY-SA)."
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6726'
+  wikidata: Q1823410
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Ulrich, Duke of Württemberg, 1487-1550 -- Fiction'
+title: Lichtenstein
+url: http://www.gutenberg.org/ebooks/6726
+wikipedia:
+- https://de.wikisource.org/wiki/Lichtenstein
+- https://de.wikipedia.org/wiki/Lichtenstein_(Roman)
+- https://en.wikipedia.org/wiki/Lichtenstein_(novel)
