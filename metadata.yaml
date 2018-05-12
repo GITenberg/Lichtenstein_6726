@@ -1,4 +1,8 @@
 _repo: Lichtenstein_6726
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hauff, Wilhelm
@@ -36,6 +40,8 @@ description: "Lichtenstein is a historical novel by Wilhelm Hauff, first publish
   \ the rebuilding of Lichtenstein Castle in 1840–1842. The 1846 opera of the same\
   \ name by Peter Josef von Lindpaintner is based on this novel.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6726#Lichtenstein
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2004-10-01'
 gutenberg_type: Text
